@@ -39,6 +39,6 @@ This repository contains my journey from **Python** to **Machine Learning** and 
 - `REST/` — small REST API examples and templates
 - `package/` — a simple Python package and utilities
 - `Multi Threading and processing/`, `Logging/` — practical examples used in larger pipelines
-- `README.md`, `requirements.txt` — start here for setup and dependencies
+- `README.md`, `requirements.txt` — start here for setup and dependencies.
 
 
